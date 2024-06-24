@@ -1,2 +1,3 @@
 # dhirajbandi_neural
-Neural Network and deep Learning submissions
+Neural Network and Deep Learning submissions
+#Name: Dhiraj Bandi #700760856
